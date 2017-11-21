@@ -1,0 +1,261 @@
+﻿{
+    "goods": {
+        "banner": [
+            {
+                "img": "http://f.cloudadmx.com/group2/M00/00/24/wKgABloO61OAQ44AAAGp4CJlMPE351.png"
+            },
+            {
+                "img": "http://f.cloudadmx.com/group1/M00/00/22/wKgABFoCzImAOxP3AAOwYxQHIIs718.png"
+            }
+        ],
+        "hotList": [
+            {
+                "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgABFoAYiWAI89rAAB_nqQxtBQ413.png",
+                "name": "简约木质笔筒",
+                "price": 79,
+                "add": 34,
+                "recommend": [
+                    {
+                        "color": "蓝色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHvUCAbNVZAABseQGEMMU827.png"
+                    },
+                    {
+                        "color": "黑色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloHug2AKoBgAABTK7W4yyQ025.png"
+                    }
+                ],
+                "isActive": true
+            },
+            {
+                "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgAA1oAYk-AGjEoAACsSovWRc0379.png",
+                "name": "手绘卡通纸胶带",
+                "price": 78,
+                "add": 34,
+                "recommend": [
+                    {
+                        "color": "白色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHugWALfQAAABkm9SWO-4383.png"
+                    },
+                    {
+                        "color": "蓝色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloHug2AKoBgAABTK7W4yyQ025.png"
+                    }
+                ],
+                "isActive": false
+            },
+            {
+                "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgABFoAYlWAMV3DAABsJ3-QRF8395.png",
+                "name": "粉色手账本",
+                "price": 98,
+                "add": 103,
+                "recommend": [
+                    {
+                        "color": "黑色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHvUCAbNVZAABseQGEMMU827.png"
+                    },
+                    {
+                        "color": "蓝色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHugWALfQAAABkm9SWO-4383.png"
+                    }
+                ],
+                "isActive": true
+            },
+            {
+                "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgABFoAYlWAMV3DAABsJ3-QRF8395.png",
+                "name": "粉色手账本",
+                "price": 23,
+                "add": 123,
+                "recommend": [
+                    {
+                        "color": "白色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHugWALfQAAABkm9SWO-4383.png"
+                    },
+                    {
+                        "color": "黑色",
+                        "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoHvUCAbNVZAABseQGEMMU827.png"
+                    }
+                ],
+                "isActive": false
+            }
+        ],
+        "photos": {
+            "titleImg": "http://f.cloudadmx.com/group2/M00/00/20/wKgABloCdX6AYwtpAAV7fUKCYdE366.png",
+            "list": [
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgAA1oAbaCACs5DAAC9VxL5m3E226.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgABFoAbZmAbyIqAAFP5LVaXhc946.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgAA1oAbaCACs5DAAC9VxL5m3E226.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/20/wKgABFoAbZmAbyIqAAFP5LVaXhc946.png"
+                }
+            ]
+        }
+    },
+    "topic": [
+        {
+            "bannerImg": "http://f.cloudadmx.com/group2/M00/00/1F/wKgABVoCdXWAU6uZAALCjTFI54Q144.png",
+            "book": [
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/22/wKgABFoCdaGAPeWnAAB7Ojr5tTQ792.png",
+                    "name": "纯色牛皮本",
+                    "price": 26
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/21/wKgAA1oCdamAJG01AABu9bN9Xgc917.png",
+                    "name": "棉麻质感笔记",
+                    "price": 34
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/22/wKgABFoCdbWAMCB6AAEM5oX6ZYQ490.png",
+                    "name": "清新文艺风",
+                    "price": 18
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/21/wKgAA1oCdbuAebGrAABFxEuWDcg673.png",
+                    "name": "蓝色棉麻本",
+                    "price": 23
+                }
+            ]
+        },
+        {
+            "bannerImg": "http://f.cloudadmx.com/group2/M00/00/20/wKgABloCdX6AYwtpAAV7fUKCYdE366.png",
+            "book": [
+                {
+                    "img": "http://f.cloudadmx.com/group2/M00/00/1F/wKgABVoCdYiAFhQdAADMvuq-_Vg973.png",
+                    "name": "森林主题贴纸",
+                    "price": 18
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group2/M00/00/20/wKgABloCdY6AIwtcAAEcOhjwfAo831.png",
+                    "name": "粉色纹理笔袋",
+                    "price": 18
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group2/M00/00/1F/wKgABVoCdZSAXKCmAAEjAiAp3EY924.png",
+                    "name": "木纹纸胶带",
+                    "price": 26
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/21/wKgAA1oCdZmAHKRgAADH-ER4kKQ093.png",
+                    "name": "猫头鹰书架",
+                    "price": 34
+                }
+            ]
+        }
+    ],
+    "people": [
+        {
+            "head": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWt6ACO8LAAA2wCW4WlE426.png",
+            "name": "Mango-鱼",
+            "page": 24,
+            "video": 18,
+            "photo": 237,
+            "share": [
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgAA1oFWuqAei8TAAJwflCzKp8595.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWvOAID-FAAJ3yPDE7FI787.png"
+                }
+            ],
+            "isActive": false
+        },
+        {
+            "head": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWsqAVGZYAAA3j8Wk7rM335.png",
+            "name": "君君",
+            "page": 46,
+            "video": 20,
+            "photo": 129,
+            "share": [
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgAA1oFWv2AEhslAAHhrpIu--4028.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWwSAOocUAAH5jmcLVvI910.png"
+                }
+            ],
+            "isActive": true
+        },
+        {
+            "head": "http://f.cloudadmx.com/group1/M00/00/24/wKgAA1oFWtKAQwjIAAA1L7wagG8683.png",
+            "name": "考拉文子",
+            "page": 34,
+            "video": 23,
+            "photo": 34,
+            "share": [
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgAA1oFWuqAei8TAAJwflCzKp8595.png"
+                },
+                {
+                    "img": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWwSAOocUAAH5jmcLVvI910.png"
+                }
+            ],
+            "isActive": true
+        }
+    ],
+    "favourable": [
+        {
+            "img": "http://f.cloudadmx.com/group1/M00/00/21/wKgAA1oCtneAVPK5AAEnj4Z2Hh4425.png"
+        },
+        {
+            "img": "http://f.cloudadmx.com/group1/M00/00/22/wKgABFoCtn-AN5I_AADvMfvg558821.png"
+        },
+        {
+            "img": "http://f.cloudadmx.com/group1/M00/00/21/wKgAA1oCtoWABpIKAADzgq0V5ZA049.png"
+        }
+    ],
+    "me": {
+        "head": "http://f.cloudadmx.com/group1/M00/00/24/wKgABFoFWt6ACO8LAAA2wCW4WlE426.png",
+        "name": "文艺笑笑",
+        "summary": "那是未来人们凝视的眼睛",
+        "item": [
+            {
+                "name": "售后",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGqreAQPSuAAAHGxchLfw392.png"
+            },
+            {
+                "name": "客服",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloGqqqABDLuAAAGg3Ax68I977.png"
+            },
+            {
+                "name": "草稿",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloGqsGAb6GOAAAFUMCnaWI127.png"
+            },
+            {
+                "name": "收藏",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGqpiATRyYAAAGkFJG52U277.png"
+            },
+            {
+                "name": "礼券",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGqsqAE7qEAAAFkK08Rhk728.png"
+            },
+            {
+                "name": "地址",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGrZiANEbfAAAG94ukEdY873.png"
+            }
+        ],
+        "order": [
+            {
+                "name": "待付款",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGuFaAQ0EWAAAPX5752jw315.png"
+            },
+            {
+                "name": "待发货",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloGuFCAWe2wAAAMqVUJj6Y770.png"
+            },
+            {
+                "name": "配送中",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABVoGuGOAFQCBAAAMqGeUVT8290.png"
+            },
+            {
+                "name": "待评价",
+                "img": "http://f.cloudadmx.com/group2/M00/00/23/wKgABloGuVWARqxnAAANo5jhWFE146.png"
+            }
+        ]
+    }
+}
