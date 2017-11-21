@@ -13,6 +13,7 @@
 8.stylus模块化css<br/>
 9.better-scroll第三方JS插件交互<br/>
 10.flex布局
+11.WEBPACK打包工具
 
 ![文艺精选页](http://f.cloudadmx.com/group1/M00/00/25/wKgAA1oT-CCAamdAAAPb7q5TksQ364.png)
 ![文具专题页](http://f.cloudadmx.com/group1/M00/00/26/wKgABFoT-C6AZyt2AAZjCByzogc130.png)
