@@ -1,6 +1,6 @@
 # 文具APP  vue 实例
 项目演示地址<br/>
-![项目演示地址](http://f.cloudadmx.com/group1/M00/00/25/wKgAA1oT9ROAH0xTAAAHKPiI4UU209.png)
+![项目演示地址](http://f.cloudadmx.com/group1/M00/00/26/wKgABFoT9qyAI6UoAAAHDr4y5xQ213.png)
 
 所应用的知识点<br/>
 1.应用脚手架工具vue-cli<br/>
